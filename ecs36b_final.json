@@ -1,0 +1,15 @@
+[
+    {
+        "name": "sendMessage",
+        "params": {
+            "action": "send message",
+	    "class_id": "class name",
+	    "object_id": "object id",
+	    "json_object": {}
+        },
+        "returns": {
+            "action": "response",
+	    "response": "jsonstr"
+        }
+    }
+]
