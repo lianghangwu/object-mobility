@@ -1,6 +1,3 @@
-student: lianghang wu          ID: 921425191
-student: jiawen zhang          ID: 919378742
-student: angel zhou            ID: 919628476
 
 #Improve the midterm question about communication between car and motorcycles in emergency
 
